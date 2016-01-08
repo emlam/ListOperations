@@ -1,3 +1,4 @@
+#Pair programming emilymlam & kkwona
 # FIXME: As of Fall 2015, this exercise got a pretty extensive re-write.
 # For Winter 2016, triple-check that all the materials are behaving
 # as expected in the main exercise, futher study, and solution.
